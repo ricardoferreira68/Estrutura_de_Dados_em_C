@@ -1,0 +1,2 @@
+/bin/ar qc libmake_c.a  CMakeFiles/make_c.dir/make_c.cpp.o
+/bin/ranlib libmake_c.a
