@@ -83,7 +83,7 @@ int pesquisa(int matr_pesq)
     else
         return i;
 }
-
+// Alterado para o github.
 
 void pausa(void){
     char pausa;
